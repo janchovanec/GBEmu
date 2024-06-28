@@ -35,6 +35,7 @@ The controls for GBEmu are as follows:
 - WASD: Directional keys
 - J: A button
 - K: B button
+- SHIFT/SPACE - START/SELECT Button
 
 ## Screenshots
 ### Zelda
