@@ -1,6 +1,6 @@
 # GBEmu
 
-GBEmu is a simple Gameboy emulator written in C++ using the SFML library. It allows you to play Gameboy ROMs on your computer. Please note that this emulator does not support sound.
+GBEmu is a simple Gameboy emulator written in C++ using the SFML library. Please note that this emulator does not support sound.
 
 ## Installation
 
@@ -35,10 +35,6 @@ The controls for GBEmu are as follows:
 - WASD: Directional keys
 - J: A button
 - K: B button
-
-## Disclaimer
-
-Please note that GBEmu is a basic emulator and does not support all ROMs and features of the Gameboy.
 
 ## Screenshots
 ### Zelda
